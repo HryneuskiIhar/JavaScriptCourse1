@@ -1,0 +1,476 @@
+@media screen and (max-width:1440px){
+    .logo{
+        margin-left: 65px;
+     }
+     .menu{
+         right: 65px;
+     }
+     .strip{
+         width: 1295px;
+     }
+     .text{
+        left: 0px;
+     }
+     .right-bar{
+         right: 65px;
+     }
+     .content{
+         margin-left: 65px;
+     }
+    .listi{
+        top: 107px;
+    }
+    .list{
+        left:680px;
+    }     
+     .lista{
+        left:320px;
+    }
+     .table{
+         left:65px;
+     }
+     .orderedlist{
+         left:340px;
+     }
+     .descriptions{
+         left: 680px;
+     }
+     .form{
+         left: 65px;
+     }
+     footer{
+         left: 65px;
+     }
+}
+@media screen and (max-width:1366px){
+    .block{
+        margin-right: 56px;
+    }
+    .right-bar li{
+        width: 250px;
+    }
+    .inner-read{
+        width:250px;
+    }
+    .inner-read a {
+        top: 60px;
+        left: 70px;
+    }
+    .form{
+        top: 550px;
+     }  
+}
+@media screen and (max-width:1280px){
+    .logo{
+       margin-left: 20px;
+    }
+    .menu{
+        right: 25px;
+    }
+    .strip{
+        width: 1240px;
+    }
+    .text{
+       left: 0px;
+       max-width: 810px;
+    }
+    .right-bar{
+        right: 25px;
+    }
+    .right-bar li{
+        width: 250px;
+    }
+    .inner-read{
+        width:250px;
+    }
+    .inner-read a {
+        top: 40px;
+        left: 70px;
+    }
+    .content{
+        top: 258px;
+        margin-left: 25px;
+    }
+    .lista{ 
+        left:300px;
+    }
+    .list{
+        left:633px;
+    }
+    .orderedlist{
+        left:320px;
+    }
+    .descriptions{
+        left: 633px;;
+    }
+    .table{
+        top: 530px;
+        left: 25px;
+    }
+    table{
+        min-width: 829px;
+    }
+    .form{
+        top: 512px;
+        left: 25px;
+    }  
+    .block{
+        margin-right: 50px;
+    }
+    footer{
+        top: 506px;
+        left: 25px;
+    }
+}
+@media screen and (max-width:1024px){
+     .menu{
+         right: 10px;
+         margin-left: -10px;
+         font-size: 25px;
+     }
+     .strip{
+         width: 1000px;
+     }
+     .text{
+        max-width: 700px;
+        left: 25px;
+     }
+     .right-bar{
+         right: 10px;   
+     }
+     .right-bar li{
+         width: 200px;
+     }
+     .inner-read{
+        height: 346px;
+        width: 200px;
+     }
+     .inner-read a {
+         white-space: nowrap;
+        top: 21px;
+        left: 69px;
+     }
+     .content{
+         margin-left: 10px;
+     }
+     .block{
+        width: 248px;
+        height: 205px;
+        margin-right: 14px;
+     }
+     .content span{
+        top: 240px;
+     }
+    .listi{
+        font-size: 0.8em;
+        top: 107px;
+        margin-left: -20px;
+     }
+    .lista{
+        font-size: 0.8em;
+        left: 248px;
+     }
+     .list{
+         font-size: 0.8em;
+        left: 541px;
+     }
+     table{
+         min-width: 765px;
+     }
+    .orderedlist{
+         left:275px;
+     }
+     .descriptions{
+         top:10px;
+         left: 540px;
+     }
+     .form{
+        top: 490px;
+         left: 25px;
+     }  
+     .table{
+        top: 491px;
+        left: 25px;
+     }
+     footer{
+         left: 25px;
+         top: 500px;
+     }
+}
+@media screen and (max-width:823px){
+    .menu{
+        font-size: 20px;
+    }
+    .menu li{
+        padding-right: 11px;
+    }
+    .strip{
+        width: 800px;
+    }
+    .text{
+       max-width: 500px;
+       left: 25px;
+    }
+    .inner-read a{
+        white-space: nowrap;
+        top: 21px;
+        left: 69px;
+    }
+    .images{
+       bottom: 150px;
+    }
+    .content{
+        top: 294px;
+        margin-left: 10px;
+    }
+    .block {
+        width: 170px;
+        height: 145px;
+    }
+    .block img{
+        height: 145px;
+    }
+    .list{
+       left: 0px;
+       top: 225px;
+    }
+    .content span{
+        top: 150px;
+    }
+    .table{
+       top: 645px;
+       left: 10px;
+    }     
+    table{
+       min-width: 557px;
+    }
+    .descriptions{
+       top: 140px;
+       left: 0px;
+    }
+    .form{
+       top: 650px;
+        left: 25px;
+    }  
+    footer{
+       left: 25px;
+       top: 660px;    
+    }
+}
+
+@media screen and (max-width:768px){
+    .strip{
+        width: 726px;
+    }
+    .text{
+        max-width: 500px;
+        left: 5px;
+    }
+    .block{
+    width: 154px;
+    height: 144px;        
+    }
+    .orderedlist{
+        top: 75px;
+        left: 0px;
+        }
+    .descriptions{
+        top: 205px;
+        left: 0px;
+    }
+    .lista{
+        left: -20px;
+        top: 195px;
+    }
+    .list{
+        left: 0px;
+        top: 288px;
+    }
+    .table{
+        top: 716px;
+    }
+    table{
+       min-width: 500px;
+    }
+    .form{
+        top: 701px;
+        left: 10px;
+    }
+    .textarea{
+       position: absolute;
+       left: 410px;
+       bottom: 60px;
+    }
+    footer{
+        top:710px;
+    }
+}
+@media screen and (max-width:667px){
+    .menu{
+        right: 0px;
+        font-size: 18px;
+    }
+    .strip{
+        width: 633px;
+    }
+    .text{
+        max-width: 465px;
+        left: 10px;
+    }
+    .right-bar{
+        right: 0px;   
+    }
+    .right-bar li{
+        width: 150px;
+    }
+    .inner-read{
+       width: 150px;
+       height: 478px;
+    }
+    .inner-read a {
+       top: 21px;
+       left: 12px;
+    }
+    .inner-more{
+        max-width: 150px;
+    }
+    .content{
+        top: 309px;
+        margin-left: 10px;
+    }
+    .images{
+    bottom: 127px;
+    }
+    .inner-content{
+        width: 132px;
+        height: 107px;
+    }
+    .content span{
+        top: 136px;
+    }
+    .lista{
+        left: -20px;
+        top: 195px;
+    }
+    .list{
+        left: 0px;
+        top: 288px;
+    }
+   .orderedlist{
+    top: 75px;
+    left: 0px;
+    }
+    .descriptions{
+        top: 205px;
+        left: 0px;
+    }
+    .table{
+        top: 706px;
+        left: 10px;
+    }  
+    table{
+        min-width: 300px;
+    }  
+    table, td, th{
+        min-width: 138px;
+    }
+    .form{
+        top: 699px;
+    }  
+    .textarea{
+        position:initial;
+    }    
+    footer{
+        left: 10px;
+        top: 715px;
+    }
+}
+@media screen and (max-width:576px){
+    .logo{
+        text-align: center;
+        margin-top: 0px;
+    }
+    .colorologo{
+        position: initial;
+    }
+    .menu{
+        right: 3vw;
+        font-size: 25px;
+        margin: 12px auto auto;
+    }
+    .strip{
+        width: 557px;
+        margin-top: 54px;
+    }
+    .text{
+        max-width: 400px;
+        left: 10px;
+    }
+    .right-bar{
+        right: 0px;   
+    }
+    .right-bar li{
+        width: 150px;
+    }
+    .inner-read{
+       width: 150px;
+       height: 478px;
+    }
+    .inner-read a {
+       top: 21px;
+       left: 12px;
+    }
+    .inner-more{
+        max-width: 150px;
+    }
+    .content{
+        top: 360px;
+        margin-left: 10px;
+    }
+    .images{
+    bottom: 90px;
+    }
+    .inner-content{
+        width: 108px;
+        height: 90px;
+    }
+    .content span{
+        top: 93px;    
+    }
+    .lista{
+        left: -20px;
+        top: 195px;
+    }
+    .list{
+        left: 0px;
+        top: 288px;
+    }
+   .orderedlist{
+    top: 75px;
+    left: 0px;
+    }
+    .descriptions{
+        top: 205px;
+        left: 0px;
+    }
+    .table{
+        top: 720px;
+        left: 10px;
+    }  
+    table{
+        max-width: 370px;
+    }  
+    table, td, th{
+        min-width: 84px
+    }
+    .form{
+        top: 699px;
+    }  
+    .textarea{
+        position:initial;
+    }    
+    footer{
+        left: 10px;
+        top: 715px;
+    }
+}

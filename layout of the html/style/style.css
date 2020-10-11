@@ -1,0 +1,243 @@
+body{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+     background-color:rgb(208, 208, 208);
+}
+a{
+    color: #a50e0e;
+}
+header{
+    width: 100%;
+}
+.logo{
+    margin-top: 35px;
+    margin-left: 150px;
+    position: relative;
+    font-size: 2em;
+}
+.colorlogo{
+    color: red;
+}
+.opacitylogo{
+    opacity: 0.5;
+    font-size: 0.9em;
+}
+.colorologo{
+position: absolute;
+    font-size: 0.49em;
+    color: red;
+}
+.menu{
+    position: relative;
+    margin: auto;
+    font-size: 30px;
+    float: right;
+    right: 150px;
+    margin-top: -19px;
+}
+.menu li{
+    display: inline;
+    padding: 0px 49px 0px 0px;
+}
+.menu li a{
+    text-decoration: none; 
+    color: black;       
+}
+.menu ul{
+    margin: 0;
+    padding: 0;
+    right: 0px;
+    top: 0px;
+    border: 1px solid;
+}
+.strip{
+    border-radius: 20px;
+    background: red;
+    height: 30px;
+    width: 83%;
+    margin: 30px auto 10px
+}
+.text{
+    position: relative;
+    max-width: 900px;
+    left: 0px;
+    bottom: 273px;
+}
+.content .text span {
+    position: absolute;
+    top: 50px;
+}
+.right-bar{
+    background-repeat: no-repeat;
+    float: right;
+    list-style-type: none;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    right:148px;
+    top: 25px;
+}
+.right-bar li{
+    background-image:url(../images/triangle.png);
+    background-color: gray;
+    background-repeat: no-repeat;
+    background-position: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid black;
+    height: 50px;
+    width: 300px;
+}
+li a{
+    text-decoration: none; 
+    color: black;     
+}
+.inner-more{
+    margin-top:10px ;    
+    text-align: center;
+    border: 1px solid black;
+    background: #7c0707;
+    color: white;
+    height: 38px;
+}
+.inner-read {
+    white-space: normal;
+    border: 1px solid black;
+    background: rgb(229, 224, 224);
+    height: 315px;
+    width: 300px;
+}
+.inner-read a{
+    position: relative;
+     top: 71px;
+}
+.content{
+    float: left;
+    position: relative;
+    top: 269px;
+    margin-left: 148px;
+}
+.images{
+    position: absolute;
+    bottom: 220px;
+}
+.wrapper {
+    position: relative;
+    left: 0px;
+}
+.block {
+    width: 235px;  
+    margin-right: 83px;  
+    float: left;
+    height: 204px;
+    box-shadow: 0 0 6px 7px gray;
+}
+.block img{
+    width: inherit;
+    height: fit-content;
+}
+.descriptions {
+    position: relative;
+    left:700px ;
+}
+.orderedlist  {
+    position: relative;
+    left:360px ;
+    bottom: 30px;
+}
+.unrderedlist  {
+    position: relative;
+    left: 0px;
+    bottom: 70px;
+}
+.content span{
+    position: absolute;
+    top: 261px;
+    left: 0px;
+}
+.listi{
+    font-size: 1em;
+    white-space: nowrap;
+    position: absolute;
+    margin-left: -20px;
+    top: 107px;
+}
+.lista{
+    font-size: 1em;
+    white-space: nowrap;
+    position: absolute;
+    left: 335px;
+    top: 107px;
+}
+.list{
+    font-size: 1em;
+    white-space: nowrap;
+    font-style:italic;    
+    position: absolute;
+    left:700px;
+    top: 107px;
+}
+.table{
+    position: relative;
+    left: 160px;
+    top: 550px;
+    max-width: 1000px;
+}
+table {
+    border-collapse: collapse;
+    min-width: 884px;
+}
+
+th {
+    height: 50px;
+}
+table, td, th {
+    border: 1px solid black;
+    text-align: left;
+}
+.form{
+    position: relative;
+    top: 550px;
+    left:160px;
+    max-width: 320px;
+}
+select{
+    width: 100%;
+    padding: 10px 13px;
+    margin: 8px 0;
+}
+input[type=text]{
+      width: 100%;
+  padding: 10px 13px;
+  margin: 8px 0;
+}
+label{
+    white-space: nowrap;
+}
+textarea{
+    padding: 10px 13px;
+    margin: 8px 0;
+    resize: none;
+}
+.textarea{
+    margin-top: 10px;
+}
+.conteinerr{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.button{
+    background-color: crimson;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+}
+footer{
+    padding-bottom: 15px;
+    left: 160px;
+    position: relative;
+    top: 638px;
+    max-width: 250px;
+}
